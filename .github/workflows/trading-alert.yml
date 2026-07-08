@@ -2,7 +2,7 @@ name: Trading Alert
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "5 21 * * 1-5"
+    - cron: "5 21 * * *
 jobs:
   check-signal:
     runs-on: ubuntu-latest
