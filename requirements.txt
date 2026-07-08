@@ -1,0 +1,6 @@
+pandas
+numpy
+yfinance
+ccxt        # only needed for crypto live trading
+alpaca-py   # only needed for live stock trading
+requests    # only needed for webhook alerts
