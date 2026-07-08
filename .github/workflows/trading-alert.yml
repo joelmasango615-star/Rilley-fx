@@ -1,4 +1,4 @@
-: Trading Alert
+name: Trading Alert
 on:
   workflow_dispatch: {}
   schedule:
